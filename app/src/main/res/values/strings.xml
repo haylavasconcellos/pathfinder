@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pathfinder</string>
+    <string name="on_off_button_text">On/Off</string>
+    <string name="sound_button_text">Sound</string>
+    <string name="repeat_button_text">Repetir narração</string>
+    <string name="camera_permission_is_required">A permissão de câmera é necessária para utilizar esse aplicativo.</string>
+    <string name="tts_initializing">Carregando voz…</string>
+    <string name="metrics_fps_default">FPS:</string>
+    <string name="metrics_latency_default">Latência:</string>
+    <string name="metrics_button_text">Metrics</string>
+</resources>
